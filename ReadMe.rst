@@ -29,4 +29,4 @@ Configuration
 
 Copyright
 --------------------------------------------------------------------------------
-| gen-hosts is Copyright (C) from 2018 by Miles B Huff per GNU General Public License v3.
+| gen-hosts is Copyright (C) from 2018-2019 by Miles B Huff per GNU General Public License v3.
